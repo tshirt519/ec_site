@@ -1,6 +1,7 @@
 # README
 
-デプロイできた----ー 20210528
+テストデプロイできた----ー 20210528
+http://54.249.128.141/
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
